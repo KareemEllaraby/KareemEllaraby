@@ -1,147 +1,182 @@
-<h1 align="center">Hi 👋, I'm Kareem Mohamed Elaraby</h1>
+<div align="center">👨‍💻 Kareem Elaraby
 
-<h3 align="center">
-🚀 Software Developer | AI Student | Future Cybersecurity Specialist From Egypt 🇪🇬
-</h3>
+Software Developer • AI Student • Cybersecurity Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;C%2B%2B+Programmer;Python+Developer;Full+Stack+Web+Developer;Artificial+Intelligence+Student;Future+Cybersecurity+Specialist;Always+Learning+New+Things+🚀" />
-</p>
+<p>
+  <img src="https://img.shields.io/badge/Software_Development-0A0A0A?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Full--Stack-FF6B35?style=for-the-badge&logo=code&logoColor=white">
+</p><p>
+  <a href="https://github.com/KareemEllaraby">
+    <img src="https://img.shields.io/github/followers/KareemEllaraby?label=Followers&style=for-the-badge">
+  </a>
+  <a href="https://github.com/KareemEllaraby?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github">
+  </a>
+</p></div>---
 
----
+🧠 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KareemElaraby&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+I'm Kareem Elaraby, a Software Developer and Artificial Intelligence student from Egypt 🇪🇬.
 
----
+I enjoy building real-world software, exploring Artificial Intelligence, developing full-stack applications, and learning Cybersecurity.
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+My goal is to combine:
 
-## 🚀 About Me
+Software Engineering + Artificial Intelligence + Cybersecurity
 
-🎓 I am a student at the **Egyptian Russian University (ERU)** in the Faculty of Artificial Intelligence.
+to build useful, secure, and intelligent applications.
 
-🛡️ Planning to specialize in **Cybersecurity** and become a professional Security Engineer.
-
-💻 Passionate Software Developer with strong experience in programming, problem-solving, and Full Stack Web Development.
-
-🔥 I love building real-world projects, learning modern technologies, and improving my coding skills every single day.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,laravel,git,github,vscode,visualstudio" />
-
-</p>
-
----
-
-## 📚 What I Have Learned
-
-✅ C++ Programming  
-✅ Python Programming  
-✅ Full Stack Web Development  
-✅ HTML5 & CSS3  
-✅ JavaScript  
-✅ PHP & Laravel Framework  
-✅ MySQL Database  
-✅ Git & GitHub  
-✅ Problem Solving  
-✅ Artificial Intelligence Basics  
-✅ Cybersecurity Fundamentals  
+💻 Build
+   ↓
+🧠 Learn
+   ↓
+🔐 Secure
+   ↓
+🤖 Innovate
+   ↓
+🚀 Repeat
 
 ---
 
-## 🚀 Currently Learning
+🚀 What I Do
 
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- 🧠 Data Structures & Algorithms
-- ⚡ Backend Development
-- ☁️ Modern Technologies
+<table>
+<tr>
+<td width="50%">💻 Software Development
+
+- C++
+- Python
+- JavaScript
+- PHP
+- Problem Solving
+- Data Structures & Algorithms
+
+</td><td width="50%">🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP / Laravel
+- Backend Development
+- MySQL
+- REST APIs
+
+</td>
+</tr><tr>
+<td width="50%">🤖 Artificial Intelligence
+
+- AI Fundamentals
+- Python for AI
+- Machine Learning Fundamentals
+- AI-powered Applications
+- Exploring Generative AI
+
+</td><td width="50%">🔐 Cybersecurity
+
+- Security Fundamentals
+- Secure Development
+- Networking Fundamentals
+- Web Security
+- Cybersecurity Learning Path
+
+</td>
+</tr>
+</table>---
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,php,html,css" />
+</p>Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,tailwind,git,github,vscode" />
+</p>Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>---
+
+🔥 Featured Projects
+
+«🚧 More projects are currently being built.»
+
+🤖 AI Projects
+
+Building practical AI applications focused on solving real-world problems.
+
+🌐 Full-Stack Applications
+
+Developing modern web applications with frontend, backend, databases and APIs.
+
+🔐 Cybersecurity Projects
+
+Exploring security tools, secure coding, vulnerability concepts and defensive security.
+
+🧠 Programming Projects
+
+C++, Python and algorithmic problem-solving projects.
 
 ---
 
-## 🏆 Certifications & Courses
+📈 GitHub Analytics
 
-🏅 IBM Artificial Intelligence Courses  
-🏅 Full Stack Web Development Certificate  
-🏅 Python Certifications  
-🏅 Programming & Problem Solving Training  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KareemEllaraby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemEllaraby&theme=tokyonight&hide_border=true" width="49%"><br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemEllaraby&layout=compact&theme=tokyonight&hide_border=true" width="45%"></div>---
 
-## 📊 GitHub Stats
+🎯 Current Focus
 
-<p align="center">
+[██████████████████░░] Software Engineering
+[████████████████░░░░] Artificial Intelligence
+[██████████████░░░░░░] Cybersecurity
+[██████████████░░░░░░] Backend Development
+[████████████░░░░░░░░] Data Structures & Algorithms
 
-<img src="https://github-readme-stats.vercel.app/api?username=KareemElaraby&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemElaraby&theme=tokyonight&hide_border=true" width="48%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemElaraby&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</p>
+Currently focused on becoming a stronger Software Engineer while expanding my knowledge in AI and Cybersecurity.
 
 ---
 
-## 🔥 Goals
+🏆 Goals
 
-✔️ Become a Professional Software Engineer  
-✔️ Specialize in Cybersecurity  
-✔️ Build Powerful Real-World Projects  
-✔️ Work in a Big Tech Company  
-✔️ Keep Learning & Growing Every Day 🚀  
+- 🚀 Become a Professional Software Engineer
+- 🤖 Build practical AI applications
+- 🔐 Become a strong Cybersecurity professional
+- 🌐 Build scalable Full-Stack systems
+- 🧠 Master Data Structures & Algorithms
+- 🌍 Contribute to Open Source
+- 💼 Work on real-world technology projects
 
 ---
 
-## 🌐 Connect With Me
+📚 Learning Philosophy
 
-<p align="center">
+«Don't just learn technology. Build with it.»
 
-<a href="https://www.linkedin.com/in/kareem-elaraby-33a489409?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Kareem%20Elaraby-blue?style=for-the-badge&logo=linkedin" />
+I believe the best way to improve is to continuously:
+
+Learn → Build → Break → Debug → Secure → Improve
+
+---
+
+🌐 Connect With Me
+
+<div align="center"><a href="https://github.com/KareemEllaraby">
+<img src="https://img.shields.io/badge/GitHub-KareemEllaraby-181717?style=for-the-badge&logo=github">
+</a><!-- Add your LinkedIn here --><!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
+--></div>---
 
-<a href="https://www.facebook.com/share/1BGDLBC5jp/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Kareem%20Elaraby-1877F2?style=for-the-badge&logo=facebook" />
-</a>
+<div align="center">⚡ "Build something. Break something. Learn something."
 
-<a href="https://www.instagram.com/kareem_e0laraby?igsh=MTAyYW42MnF5a2FnNQ==" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-KAREEM_E0LARABY-E4405F?style=for-the-badge&logo=instagram" />
-</a>
+<br><img src="https://komarev.com/ghpvc/?username=KareemEllaraby&style=for-the-badge&color=blue" alt="Profile Views"><br><br>
 
-<a href="https://www.youtube.com/" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Kareem%20Elaraby-FF0000?style=for-the-badge&logo=youtube" />
-</a>
+Thanks for visiting my profile! 🚀
 
-</p>
-
----
-
-## 📞 Contact Me
-
-📧 Email: **kareemelaraby032@gmail.com**  
-
----
-
-## ⚡ Fun Fact
-
-```cpp
-while(!success)
-{
-    learn();
-    improve();
-    build();
-    repeat();
-}
-
-<h3 align="center">🔥 Dream Big • Work Hard • Stay Consistent 🔥</h3>---
+</div>

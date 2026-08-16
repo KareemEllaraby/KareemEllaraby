@@ -131,8 +131,6 @@
 
 📧 Email: **kareemelaraby032@gmail.com**  
 
-📱 Phone: **01036580124**
-
 ---
 
 ## ⚡ Fun Fact
